@@ -5,6 +5,6 @@ while(controle <= 10) {
     console.log(controle);
     controle++;
 }
-console.log("fim");
+console.log("fim do loop");
 
 //declaração; expressão; incremento -> quantidade determinada 
