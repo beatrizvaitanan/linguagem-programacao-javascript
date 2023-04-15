@@ -1,5 +1,5 @@
 const hora = 14;
-let saldacao;
+let saudacao;
 
 if (hora < 12) {
     saudacao = "bom dia";}
